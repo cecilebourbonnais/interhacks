@@ -1,1 +1,1 @@
-# interhacks.github.io
+# interhacks.org
