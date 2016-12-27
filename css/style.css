@@ -152,6 +152,14 @@ aside {
     magin-left: 100px;
 }
 
+#challenge strong {
+    font-size: 20px;
+}
+
+#challenge h4 {
+    font-size: 20px;
+}
+
 #prizes {
     background-color: #2d2d2d;
 }
