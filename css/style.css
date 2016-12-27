@@ -138,14 +138,17 @@ aside {
     color:black;
  }
 
+#challenge a {
+    color: #2d2d2d;
+ }
 
 #challenge p {
     margin-top:20px;
-    font-size:18px;
+    font-size:16px;
 }
 
 #challenge img {
-    margin-top: 50px;
+    margin-top: 20px;
     magin-left: 100px;
 }
 
