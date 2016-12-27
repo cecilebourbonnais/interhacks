@@ -219,6 +219,9 @@ header p{
     color: #FFE061;
 }
 
+header #header-desc {
+    font-family: 'Montserrat';
+}
 
 hr {
     max-width: 50px;
@@ -230,6 +233,17 @@ hr.light {
     border-color: #fff;
 }
 
+#register p {
+    padding: 0 20%;
+}
+
+#register a {
+    color:#ffaa3a;
+}
+
+#register button {
+    margin-top: 50px;
+}
  
 header .header-content {
     position: relative;
